@@ -1,1 +1,2 @@
 sample text 3
+Hi from sample text 3
